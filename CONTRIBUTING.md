@@ -10,7 +10,7 @@ We welcome contributions from the community and encourage you to get involved in
 </ol>
 
 ## Code of Conduct
-We expect all contributors to follow our code of conduct, which can be found in the `CODE_OF_CONDUCT.md` file. Please be respectful and considerate of others when participating in our community.
+We expect all contributors to follow our code of conduct, which can be found in the [CODE_OF_CONDUCT.md](https://github.com/MindQuil/MindQuil/blob/main/CODE_OF_CONDUCT.md) file. Please be respectful and considerate of others when participating in our community.
 
 ## Issue Reporting
 If you encounter a bug or have a feature request, please open a new issue in the issue tracker. Be sure to include as much detail as possible, such as the steps to reproduce the issue or the expected behavior of the feature.
