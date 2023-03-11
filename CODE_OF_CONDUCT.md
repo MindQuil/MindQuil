@@ -15,7 +15,7 @@ We expect all contributors and participants in our community to adhere to the fo
 
 ## Reporting Violations
 
-If you witness or experience any violations of our code of conduct, please report it to the project maintainers at [ayobamyahmed@gmail.com](mailto:ayobamy@gmail.com). All reports will be taken seriously and kept confidential.
+If you witness or experience any violations of our code of conduct, please report it to the project maintainers at [mindquil@eurokool.com](mailto:mindquil@eurokool.com). All reports will be taken seriously and kept confidential.
 
 ## Consequences of Unacceptable Behavior
 
